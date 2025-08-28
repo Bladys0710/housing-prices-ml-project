@@ -1,0 +1,33 @@
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore data files (if you upload large datasets directly)
+#data/raw/
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environment directories
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Source code's folder
+src/
+
+# Ignore logs
+*.log
+
+# Ignore output files
+*.out
+*.o
+*.tmp
+
+# Ignore any other temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
