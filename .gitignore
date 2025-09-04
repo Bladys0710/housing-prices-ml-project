@@ -3,6 +3,7 @@
 
 # Ignore data files (if you upload large datasets directly)
 #data/raw/
+data/processed/
 
 # Ignore submission data files
 data/submission/
