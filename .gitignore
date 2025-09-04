@@ -4,6 +4,9 @@
 # Ignore data files (if you upload large datasets directly)
 #data/raw/
 
+# Ignore submission data files
+data/submission/
+
 # Ignore Python cache files
 __pycache__/
 *.py[cod]
